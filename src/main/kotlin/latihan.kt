@@ -1,4 +1,5 @@
-//fun main(){
+fun main(){
+    //Pertemuan1
 //    println("Hello World")
 //    println("Risang")
 //    //println("Brrr")
@@ -11,9 +12,8 @@
 //    val Alamat = readLine()
 //
 //    println("Pekerjaaan kamu adalah $Pekerjaan dan alamat kamu di $Alamat")
-//}
 
-fun main(args: Array<String>){
+    //Pertemuan2
     var namaLengkap: String = "Risang"
 
     //Variabel yang kosong harus disebutkan tipe datanya
