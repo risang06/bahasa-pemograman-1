@@ -25,4 +25,7 @@ fun main(){
     println(namaLengkap)
     println(alamat)
     println(umur)
+
+    var bilangan = 500
+    println(bilangan::class.qualifiedName)
 }
